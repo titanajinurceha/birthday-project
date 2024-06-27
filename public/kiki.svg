@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: #fc4c6d;
+      }
+
+      .cls-5 {
+        fill: #ffebf1;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="50.19" y="-3.58" width="32" height="32" rx="4.17" ry="4.17"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="16" y1="33.73" x2="16" y2="-3.39" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fd5378"/>
+      <stop offset="1" stop-color="#ffc5d1"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-1">
+    <image width="3600" height="2338" transform="translate(-175.2 -109.65) scale(.12)" xlink:href="../../Desktop/Screenshot 2024-06-26 at 9.32.16 PM.png"/>
+  </g>
+  <rect class="cls-3" width="32" height="32" rx="3.26" ry="3.26"/>
+  <g>
+    <polygon class="cls-4" points="18.41 25.57 14.76 18.46 12.49 20.84 12.49 25.57 5.88 25.57 5.88 6.43 12.49 6.43 12.49 12.43 17.63 6.43 26.5 6.43 19.33 13.85 26.51 25.57 18.41 25.57"/>
+    <path class="cls-5" d="m25.32,6.93l-6.62,6.85,6.92,11.3h-6.9l-3.83-7.46-2.9,3.03v4.43h-5.61V6.93h5.61v6.86l5.87-6.86h7.46m2.36-1h-10.28l-.3.35-4.11,4.8v-5.15h-7.61v20.15h7.61v-5.03l1.65-1.73,3.18,6.21.28.54h9.3l-.93-1.52-6.51-10.64,6.08-6.29,1.64-1.7h0Z"/>
+  </g>
+</svg>
